@@ -1,6 +1,6 @@
 # DataScrapping-1
 
-# from typing import Container
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
